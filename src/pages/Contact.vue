@@ -46,7 +46,7 @@
           </div>
 
           <div class="flex items-start gap-4">
-            <div class="bg-orange-500 text-white p-3 rounded-lg">📍</div>
+            <div class="bg-orange-500 text-white p-3 rounded-lg">🏙️</div>
             <div>
               <p class="font-semibold text-gray-700">Office Address</p>
               <p class="text-gray-800">
@@ -64,7 +64,6 @@
               </a>
             </div>
           </div>
-
         </div>
       </div>
     </div>
