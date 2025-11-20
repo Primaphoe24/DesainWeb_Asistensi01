@@ -2,14 +2,11 @@
   <footer class="bg-gray-900 text-gray-300 pt-16 pb-10">
     <div class="max-w-7xl mx-auto px-6 grid grid-cols-1 md:grid-cols-4 gap-12">
       <div>
-        <img 
-          src="@/assets/images/foodifylogo.jpg" 
-          alt="Logo" 
-          class="w-20 h-20 object-contain mb-4"
-        />
-        <h3 class="text-xl font-bold text-white">foodify</h3>
+        <img src="@/assets/images/foodifylogo.jpg" alt="Logo" class="w-20 h-20 object-contain mb-4" />
+        <h3 class="text-xl font-bold text-white">ChezzyBite</h3>
         <p class="mt-4 text-gray-400 leading-relaxed">
-         Fast. Fresh. Future-Ready. Foodify brings tasty food, friendly service, and a smooth experience you can always count on.
+          Fast. Fresh. Future-Ready. ChezzyBite brings tasty food, friendly service, and a smooth experience you can
+          always count on.
         </p>
       </div>
       <div>
@@ -25,13 +22,13 @@
         <h3 class="text-lg font-semibold text-white mb-4">Contact Info</h3>
         <ul class="space-y-2">
           <li class="flex gap-2">
-            🏙️ <span>Jl. Grand City No. 31, Balikpapan</span>
+            🏙️ <span>Jl. Sinar Mas Land Boulevard, Balikpapan</span>
           </li>
           <li class="flex gap-2">
             📞 <span>+62 812-3456-7890</span>
           </li>
           <li class="flex gap-2">
-            ✉️ <span>support@foodifyfastfood.com</span>
+            ✉️ <span>support@ChezzyBitefastfood.com</span>
           </li>
         </ul>
       </div>
@@ -51,7 +48,7 @@
       </div>
     </div>
     <div class="text-center text-gray-500 mt-16 border-t border-gray-700 pt-8">
-      © 2025 foodify. All Rights Reserved.
+      © 2025 ChezzyBite. All Rights Reserved.
     </div>
   </footer>
 </template>

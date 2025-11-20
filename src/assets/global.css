@@ -1,0 +1,27 @@
+/* .gold-particles {
+  position: fixed;
+  inset: 0;
+  overflow: hidden;
+  pointer-events: none;
+  z-index: 5;
+}
+.gold-particle {
+  position: absolute;
+  top: -10px;
+  background: radial-gradient(circle, #ffdd55, #ffaa00);
+  border-radius: 50%;
+  opacity: 0.9;
+  filter: blur(1px);
+  animation: fall linear forwards;
+}
+@keyframes fall {
+  0% {
+    transform: translateY(0) scale(1);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(110vh) scale(0.5);
+    opacity: 0;
+  }
+} */
+
